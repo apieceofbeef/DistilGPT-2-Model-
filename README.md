@@ -181,4 +181,4 @@ trainer.train()
 
 ## License
 
-For **research and personal projects only**.
+For **anyone really idc**.
